@@ -45,7 +45,7 @@ I enjoy learning by building practical applications and improving my understandi
 
 **February 1, 2026 – May 15, 2026 · 15 Weeks**
 
-- Successfully completed a **15-week Full Stack Web Development (MERN) internship**.
+- Successfully completed a **15-week Full Stack Web Development internship.
 - Completed a **Todo List** capstone project.
 - Gained hands-on exposure to full stack web development through training, assessments, and project work.
 
@@ -95,6 +95,10 @@ Developer Tools
  └── Git & GitHub
 
 Next Focus
+Backend
+ ├── Spring Boot
+ ├── REST API
+ └── JDBC
  └── Building stronger Java Full Stack projects
 ```
 
@@ -118,7 +122,7 @@ I'm working toward **entry-level Java Full Stack Developer** opportunities where
 <img src="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/pacman-contribution-graph-dark.svg" />
 
 </div>
----
+
 ## 🤝 Connect With Me
 
 <div align="center">
