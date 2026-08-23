@@ -112,7 +112,7 @@ I'm working toward **entry-level Java Full Stack Developer** opportunities where
 
 ---
 
-## 📊 GitHub Activity
+
 
 ## 📊 GitHub Activity
 
