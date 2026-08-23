@@ -9,6 +9,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - name: Generate Pacman
         uses: abozanona/pacman-contribution-graph@main
