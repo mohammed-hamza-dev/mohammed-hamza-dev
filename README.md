@@ -45,7 +45,7 @@ I enjoy learning by building practical applications and improving my understandi
 
 **February 1, 2026 – May 15, 2026 · 15 Weeks**
 
-- Successfully completed a **15-week Full Stack Web Development internship.
+- Successfully completed a 15-week Full Stack Web Development internship.
 - Completed a **Todo List** capstone project.
 - Gained hands-on exposure to full stack web development through training, assessments, and project work.
 
@@ -59,7 +59,7 @@ A frontend web application built while learning HTML, CSS, and JavaScript at Kod
 
 The application combines a simple demo login flow with a movie-search interface. It loads test users from a JSON file and uses the **OMDb API** to search for movies and display their posters, titles, and release years.
 
-**What I practiced:**
+What I practiced:
 - HTML page structure and forms
 - CSS layouts and styling
 - JavaScript functions and DOM manipulation
@@ -68,7 +68,7 @@ The application combines a simple demo login flow with a movie-search interface.
 - Working with an external REST API
 - Dynamically creating and displaying movie cards
 
-**Technologies:** `HTML` `CSS` `JavaScript` `JSON` `Fetch API` `OMDb API`
+Technologies: `HTML` `CSS` `JavaScript` `JSON` `Fetch API` `OMDb API`
 
 
 
