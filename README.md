@@ -16,8 +16,6 @@ I'm **Mohammed Hamza**, a **B.E. Information Science & Engineering graduate** fo
 
 I'm currently strengthening my skills in **Java, SQL, HTML, CSS, JavaScript, React, and Git/GitHub** through structured training and hands-on projects.
 
-I enjoy learning by building practical applications and improving my understanding by writing, testing, debugging, and explaining the code I work with.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -99,7 +97,7 @@ Backend
  ├── Spring Boot
  ├── REST API
  └── JDBC
- └── Building stronger Java Full Stack projects
+ └── Java Full Stack projects
 ```
 
 ---
