@@ -114,14 +114,13 @@ I'm working toward **entry-level Java Full Stack Developer** opportunities where
 
 ## 📊 GitHub Activity
 
+## 📊 GitHub Activity
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammed-hamza-dev&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&include_all_commits=true&count_private=false" alt="GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-hamza-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" alt="Most used GitHub languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-hamza-dev&bg_color=0D1117&color=E5E7EB&line=8B5CF6&point=A78BFA&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
-
 ---
 
 ## 🤝 Connect With Me
