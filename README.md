@@ -112,17 +112,17 @@ I'm working toward **entry-level Java Full Stack Developer** opportunities where
 
 ---
 
-
-
-## 📊 GitHub Activity
+## 🐍 Contribution Journey
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-hamza-dev&bg_color=0D1117&color=E5E7EB&line=8B5CF6&point=A78BFA&area=true&hide_border=true" alt="GitHub Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/github-snake.svg">
+</picture>
 
 </div>
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
