@@ -117,19 +117,13 @@ I'm working toward **entry-level Java Full Stack Developer** opportunities where
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/pacman-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/pacman-contribution-graph.svg">
-
-  <img alt="Pacman Contribution Graph"
-       src="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/pacman-contribution-graph.svg">
-</picture>
+<img
+  src="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/pacman-contribution-graph-dark.svg"
+  alt="Pacman Contribution Graph"
+  width="100%"
+/>
 
 </div>
-
 ---
 
 <div align="center">
