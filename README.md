@@ -117,16 +117,16 @@ I'm working toward **entry-level Java Full Stack Developer** opportunities where
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/pacman-contribution-graph-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/pacman-contribution-graph-dark.svg">
 
-</div>
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/pacman-contribution-graph.svg">
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-hamza-b93700370)
-[![Email](https://img.shields.io/badge/Email-hamza.ise.rymec%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.ise.rymec@gmail.com)
+  <img alt="Pacman Contribution Graph"
+       src="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
 
