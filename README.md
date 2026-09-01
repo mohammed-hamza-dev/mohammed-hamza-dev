@@ -113,15 +113,26 @@ I'm working toward **entry-level Java Full Stack Developer** opportunities where
 - Learn from experienced developers and contribute to real-world software.
 
 ---
-## 👾 My Contribution Journey
+## 🐍 My Contribution Journey
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/pacman-contribution-graph-dark.svg"
-  alt="Pacman Contribution Graph"
-  width="100%"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/github-snake.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
+
+</picture>
 
 </div>
 ---
