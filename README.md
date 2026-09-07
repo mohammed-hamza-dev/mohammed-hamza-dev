@@ -175,21 +175,7 @@ I continuously work on projects to improve my understanding of programming, fron
 
 ## 🐍 My Contribution Journey
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/github-snake.svg"
-  />
-</picture>
-
+![GitHub Contribution Snake](https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/github-snake.svg)
 
 ---
 
