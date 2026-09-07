@@ -1,36 +1,38 @@
-<div align="center">
+# 👋 Hi, I'm Mohammed Hamza
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=MOHAMMED%20HAMZA&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20in%20Training&descAlignY=57&descSize=18&animation=fadeIn" alt="Mohammed Hamza" />
+### Aspiring Java Full Stack Developer | Java • SQL • React • JavaScript
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-hamza-b93700370)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.ise.rymec@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-mohammed--hamza--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-hamza-dev)
+I'm an aspiring Java Full Stack Developer focused on building practical web applications and strengthening my skills in Java, SQL, MySQL, React, JavaScript, HTML, CSS, and Git/GitHub.
 
-</div>
-
----
-
-## 👋 About Me
-
-I'm **Mohammed Hamza**, a **B.E. Information Science & Engineering graduate** focused on becoming a **Java Full Stack Developer**.
-
-I'm currently strengthening my skills in **Java, SQL, HTML, CSS, JavaScript, React, and Git/GitHub** through structured training and hands-on projects.
+I enjoy learning by building projects, solving programming problems, and continuously improving my software development skills.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### 💻 Programming & Database
 
-### Frontend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Tools
+### 🧠 Concepts
+
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Problem Solving
+- JavaScript Fundamentals
+- React Components & State Management
+
+### 🔧 Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -41,34 +43,65 @@ I'm currently strengthening my skills in **Java, SQL, HTML, CSS, JavaScript, Rea
 
 ### Full Stack Web Development Intern — SuprMentr Technologies Pvt. Ltd.
 
-**February 1, 2026 – May 15, 2026 · 15 Weeks**
+**February 2026 – May 2026 · 15 Weeks**
 
-- Successfully completed a 15-week Full Stack Web Development internship.
-- Completed a **Todo List** capstone project.
-- Gained hands-on exposure to full stack web development through training, assessments, and project work.
+- Completed a 15-week Full Stack Web Development internship.
+- Developed a Todo List project as part of the internship.
+- Gained hands-on experience through training, assessments, and project-based learning.
 
 ---
 
-## 🚀 Featured Project
+## 🎓 Current Training
 
-### 🎬 Movie Search Application
+### Java Full Stack Development — KodNest Technologies
 
-A frontend web application built while learning HTML, CSS, and JavaScript at KodNest, featuring a demo login flow and movie search using the OMDb REST API.
+**April 2026 – Present**
 
-The application combines a simple demo login flow with a movie-search interface. It loads test users from a JSON file and uses the **OMDb API** to search for movies and display their posters, titles, and release years.
+Currently strengthening my skills in:
 
-What I practiced:
-- HTML page structure and forms
-- CSS layouts and styling
-- JavaScript functions and DOM manipulation
-- `fetch()` and asynchronous programming with `async/await`
-- Reading data from a JSON file
-- Working with an external REST API
-- Dynamically creating and displaying movie cards
+- Core Java
+- Object-Oriented Programming
+- SQL & MySQL
+- HTML & CSS
+- JavaScript
+- React
+- Git & GitHub
+- Data Structures & Algorithms
+- Problem Solving
 
-Technologies: `HTML` `CSS` `JavaScript` `JSON` `Fetch API` `OMDb API`
+### Next Focus
 
+- Spring Boot
+- JDBC
+- REST APIs
+- Java Full Stack Development
+- Backend Development
 
+---
+
+## 🚀 Featured Projects
+
+### 📋 TaskMan — Task Management Application
+
+A React-based task management application for creating, organizing, and tracking tasks with priority, categories, and progress tracking.
+
+**Tech Stack:** React, JavaScript, HTML, CSS, Vite
+
+🔗 [Live Demo](https://mohammed-hamza-dev.github.io/TaskMan/)
+
+🔗 [GitHub Repository](https://github.com/mohammed-hamza-dev/TaskMan)
+
+---
+
+### 💰 Finance Tracker
+
+A React-based personal finance tracker for managing income, expenses, transactions, and financial balance.
+
+**Tech Stack:** React, JavaScript, HTML, CSS, Firebase, Ant Design
+
+🔗 [Live Demo](https://mohammed-hamza-dev.github.io/finance-tracker/)
+
+🔗 [GitHub Repository](https://github.com/mohammed-hamza-dev/finance-tracker)
 
 ---
 
@@ -78,10 +111,12 @@ Technologies: `HTML` `CSS` `JavaScript` `JSON` `Fetch API` `OMDb API`
 Java
  ├── Core Java
  ├── OOP
- └── Logic Building
+ ├── Logic Building
+ └── DSA
 
-SQL
- └── SQL & Database Fundamentals
+Database
+ ├── SQL
+ └── MySQL
 
 Frontend
  ├── HTML
@@ -89,56 +124,58 @@ Frontend
  ├── JavaScript
  └── React
 
-Developer Tools
- └── Git & GitHub
+Tools
+ ├── Git
+ └── GitHub
 
-Next Focus
-Backend
+Next
  ├── Spring Boot
- ├── REST API
- └── JDBC
- └── Java Full Stack projects
+ ├── JDBC
+ └── REST APIs
 ```
 
 ---
 
 ## 🎯 Career Focus
 
-I'm working toward **entry-level Java Full Stack Developer** opportunities where I can:
+I'm preparing for **entry-level Java Full Stack Developer** opportunities.
 
-- Apply my Java and web-development knowledge.
-- Work with SQL and databases.
-- Build practical applications.
-- Continue developing my frontend and backend skills.
-- Learn from experienced developers and contribute to real-world software.
+My goal is to:
+
+- Build practical software applications
+- Strengthen Java backend development
+- Work with SQL and databases
+- Develop full-stack applications
+- Improve DSA and problem-solving skills
+- Learn from experienced developers
+- Contribute to real-world software projects
 
 ---
+
+## 📈 My Development Journey
+
+I believe in learning by building.
+
+I continuously work on projects to improve my understanding of programming, frontend development, databases, and software development practices.
+
+> **Learning by building. Improving by doing. Growing into a Java Full Stack Developer.**
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** hamza.ise.rymec@gmail.com
+
+🔗 **LinkedIn:** [Mohammed Hamza](https://www.linkedin.com/in/mohammed-hamza-b93700370)
+
+🐙 **GitHub:** [mohammed-hamza-dev](https://github.com/mohammed-hamza-dev)
+
+---
+
 ## 🐍 My Contribution Journey
 
-<div align="center">
+![GitHub Contribution Snake](https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/github-contribution-grid-snake.svg)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/mohammed-hamza-dev/mohammed-hamza-dev/output/github-snake.svg"
-    alt="GitHub contribution snake animation"
-    width="100%"
-  />
-
-</picture>
-
-</div>
 ---
 
-<div align="center">
-
-<i>Learning by building. Improving by doing. Growing into a Java Full Stack Developer.</i>
-
-</div>
+⭐ **Thanks for visiting my profile!**
