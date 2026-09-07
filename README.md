@@ -2,9 +2,9 @@
 
 ### Aspiring Java Full Stack Developer | Java • SQL • React • JavaScript
 
-I'm an aspiring Java Full Stack Developer focused on building practical web applications and strengthening my skills in Java, SQL, MySQL, React, JavaScript, HTML, CSS, and Git/GitHub.
+B.E. Information Science & Engineering graduate focused on becoming a Java Full Stack Developer and building practical web applications.
 
-I enjoy learning by building projects, solving programming problems, and continuously improving my software development skills.
+I enjoy learning by building projects, solving programming problems, and continuously improving my development skills.
 
 ---
 
@@ -22,6 +22,10 @@ I enjoy learning by building projects, solving programming problems, and continu
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🔥 Backend & Services
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🧠 Concepts
 
@@ -51,7 +55,7 @@ I enjoy learning by building projects, solving programming problems, and continu
 
 ---
 
-## 🎓 Current Training
+## 🎓 Professional Training
 
 ### Java Full Stack Development — KodNest Technologies
 
@@ -74,12 +78,12 @@ Currently strengthening my skills in:
 - Spring Boot
 - JDBC
 - REST APIs
-- Java Full Stack Development
 - Backend Development
+- Java Full Stack Development
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 📋 TaskMan — Task Management Application
 
@@ -109,32 +113,29 @@ A React-based personal finance tracker for managing income, expenses, transactio
 
 ```text
 Java
- ├── Core Java
- ├── OOP
- ├── Logic Building
- └── DSA
+├── Core Java
+├── OOP
+├── Logic Building
+└── DSA
 
 Database
- ├── SQL
- └── MySQL
+├── SQL
+└── MySQL
 
 Frontend
- ├── HTML
- ├── CSS
- ├── JavaScript
- └── React
+├── HTML
+├── CSS
+├── JavaScript
+└── React
 
 Tools
- ├── Git
- └── GitHub
+├── Git
+└── GitHub
 
 Next
- ├── Spring Boot
- ├── JDBC
- └── REST APIs
-```
-
----
+├── Spring Boot
+├── JDBC
+└── REST APIs
 
 ## 🎯 Career Focus
 
